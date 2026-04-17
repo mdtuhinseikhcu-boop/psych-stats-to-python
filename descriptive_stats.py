@@ -9,3 +9,4 @@ print(df.describe())
 
 print("\nMean difference:")
 print(df['Group_B'].mean() - df['Group_A'].mean())
+Transitioning from SPSS to Python for cognitive modeling. Application project for UTN Human & AI M.Sc. 2026
