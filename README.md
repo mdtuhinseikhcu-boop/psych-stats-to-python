@@ -33,3 +33,4 @@ This project demonstrates my ability to bridge experimental psychology with comp
 UTN’s unique triad of Computer Science, Philosophy, and Psychology aligns with my goal to build 
 human-centered AI. I plan to extend this work in UTN’s “Foundations of Human Cognition” module 
 by implementing cognitive models in Python.
+### Tech: Python, Pandas, NumPy, SciPy, Matplotlib, MNE-Python, Jupyter
