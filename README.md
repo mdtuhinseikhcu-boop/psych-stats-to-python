@@ -9,6 +9,22 @@ I’m a Psychology graduate from University of Chittagong transitioning from SPS
 
 ### This repo:
 Replicating descriptive statistics and t-tests from my PSY-205 Statistics-II course using Python.
+*Author:* MD. Tuhin Seikh, B.Sc. Psychology, University of Chittagong  
+*Goal:* Transition from SPSS to Python for reproducible research in Cognitive Neuroscience & Psychology
+
+Open-source replication of Statistics I & II syllabus for M.Sc. applications in Germany.
+
+### Relevance to M.Sc. Programs
+- *Neurocognitive Psychology:* EEG/ERP analysis pipelines, time-series data
+- *Sport & Exercise Psychology:* Reaction time, motor performance ANOVA
+- *Social & Economic Psychology:* Regression, correlation, survey analysis  
+- *Mind, Brain and Behavior:* Behavioral neuroscience stats, reproducible workflows
+
+### Features
+1. Descriptive & inferential stats: t-test, ANOVA, correlation, regression
+2. Effect sizes + APA-style automated reporting
+3. Jupyter notebooks for EEG, behavioral, and performance data
+4. From SPSS to Python: open science for neuroscience
 
 ### Why this matters:
 My goal is to join interdisciplinary CogSci/AI programs in Germany where human behavior is modeled computationally. This repo documents my bridge from experimental psychology to computational methods.
